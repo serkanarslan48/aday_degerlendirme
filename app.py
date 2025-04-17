@@ -6,7 +6,6 @@ from groq import Groq
 import random
 import ast
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
 
 file_path1 = "caliskanlik.json"
 with open(file_path1, "r", encoding="utf-8") as f:
