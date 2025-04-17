@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Inventor'da parametrik modelleme nedir ve nasıl kullanılır?",
+    "answer": "Parametrik modelleme, ölçülerin ve ilişkilerin belirli parametrelere bağlı olarak tanımlandığı modelleme yöntemidir. Değişiklik yapıldığında tüm model otomatik olarak güncellenir."
+  },
+  {
+    "question": "Bir geodesic dome yapısında kullanılan ana yapısal elemanlar nelerdir?",
+    "answer": "Strutlar (çubuklar) ve node (bağlantı noktaları) temel elemanlardır. Çoğunlukla üçgen yapıdadır."
+  },
+  {
+    "question": "Inventor'da bir parçayı montaja ekledikten sonra nasıl hizalarsınız?",
+    "answer": "Constrains komutu ile 'mate', 'flush', 'angle' gibi ilişkiler kullanarak hizalama yapılır."
+  },
+  {
+    "question": "Geodesic kubbe tasarımında kullanılan en yaygın çokyüzlü şekil nedir?",
+    "answer": "Icosahdron, yani 20 üçgen yüzeyli çokyüzlü geometri."
+  },
+  {
+    "question": "Bir parçada gerilme analizini Inventor'da nasıl yaparsınız?",
+    "answer": "Stress Analysis modülünü kullanarak malzeme tanımlanır, yük ve sınır koşulları girilerek analiz gerçekleştirilir."
+  },
+  {
+    "question": "Inventor'da assembly dosyalarında parça ilişkileri nasıl yönetilir?",
+    "answer": "'Assembly constraints' komutları ile parçalar arasında ilişki kurulur, parça hareketleri bu ilişkilere göre kısıtlanır."
+  },
+  {
+    "question": "Geometrik olarak stabil bir yapı elde etmek için üçgenler neden tercih edilir?",
+    "answer": "Üçgen şekli, dış kuvvetler altında formunu koruyabilen en stabil şekildir."
+  },
+  {
+    "question": "Inventor'da bir parçanın ağırlık merkezini nasıl bulursunuz?",
+    "answer": "'iProperties' üzerinden fiziksel bilgileri görüntüleyerek ağırlık merkezi hesaplanabilir."
+  },
+  {
+    "question": "Geodesic dome yapılarında alüminyum kullanmanın avantajları nelerdir?",
+    "answer": "Hafiflik, korozyon direnci ve düşük bakım maliyeti."
+  },
+  {
+    "question": "Inventor'da sheet metal tasarımı yaparken dikkat edilmesi gerekenler nelerdir?",
+    "answer": "Bükme yarıçapı, sac kalınlığı ve malzeme özellikleri gibi üretimle ilgili parametreler tanımlanmalıdır."
+  },
+  {
+    "question": "Bir strut'un burkulma riskini nasıl değerlendirirsiniz?",
+    "answer": "Euler burkulma formülü kullanılarak çap, uzunluk ve destek koşullarına göre analiz yapılır."
+  },
+  {
+    "question": "Inventor'da bir bileşeni teknik resme nasıl aktarırsınız?",
+    "answer": "Drawing ortamında 'Base View' komutu ile 3D model teknik resme eklenebilir."
+  },
+  {
+    "question": "Bir geodesic kubbenin yarıçapı iki katına çıkarsa yüzey alanı ne kadar artar?",
+    "answer": "Yüzey alanı, yarıçapın karesiyle orantılıdır. Yani dört katına çıkar."
+  },
+  {
+    "question": "Inventor'da malzeme kütüphanesi nasıl kullanılır?",
+    "answer": "Parçaya sağ tıklanarak 'Material' menüsünden mevcut malzemeler atanabilir."
+  },
+  {
+    "question": "Geodesic kubbelerde en sık karşılaşılan üretim hataları nelerdir?",
+    "answer": "Strut uzunluklarının yanlış kesilmesi, montaj noktalarının hatalı yerleştirilmesi ve bağlantı elemanlarının hizasız yerleştirilmesi."
+  }
+]

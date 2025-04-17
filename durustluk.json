@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Bir hata yaptığınızda bunu yöneticinize nasıl iletirsiniz?",
+    "answer": "Hemen açıkça belirtir, çözüm önerisiyle birlikte paylaşırım."
+  },
+  {
+    "question": "Bir arkadaşınızın işe dair yalan söylediğini fark ederseniz ne yaparsınız?",
+    "answer": "Önce onunla konuşur, durumu açıklamasını isterim."
+  },
+  {
+    "question": "Kendinizle ilgili eksik bilgileri özgeçmişte saklar mısınız?",
+    "answer": "Hayır, tüm bilgilerim gerçektir."
+  },
+  {
+    "question": "Verdiğiniz bir sözü yerine getiremeyeceğinizi anladığınızda ne yaparsınız?",
+    "answer": "Durumu erken bildirir, nedenlerini açıklar ve çözüm ararım."
+  },
+  {
+    "question": "İş yerinde dürüstlük sizin için neden önemlidir?",
+    "answer": "Güvenin ve sağlıklı iletişimin temelidir."
+  },
+  {
+    "question": "Yalan söylemenin mecburi olduğu bir durum olabilir mi?",
+    "answer": "Hayır, doğrular her zaman daha sağlıklı çözümler doğurur."
+  },
+  {
+    "question": "Şirket verilerini izinsiz paylaşan biriyle karşılaşırsanız ne yaparsınız?",
+    "answer": "Yetkili birime bildiririm, etik dışı davranışlara sessiz kalmam."
+  },
+  {
+    "question": "Başkasının başarısını kendi başarınız gibi göstermek sizce kabul edilebilir mi?",
+    "answer": "Asla, bu hem etik dışı hem ekip ruhunu zedeleyici bir davranıştır."
+  },
+  {
+    "question": "Zaman çizelgesi üzerinde çalışmadığınız saatleri çalışılmış gibi göstermek hakkında ne düşünüyorsunuz?",
+    "answer": "Kesinlikle kabul edilemez, dürüstlük önceliğimdir."
+  },
+  {
+    "question": "Yönetici size gizli bir bilgi verir ve paylaşmamanızı isterse nasıl davranırsınız?",
+    "answer": "Gizliliğe sadık kalırım."
+  },
+  {
+    "question": "Performans değerlendirmesinde hatalı bilgi girerseniz ne yaparsınız?",
+    "answer": "Yanlışı fark eder etmez düzeltirim ve bildiririm."
+  },
+  {
+    "question": "Bir işle ilgili başarınızı abartarak anlatmanız istendiğinde ne yaparsınız?",
+    "answer": "Gerçekleri anlatırım, abartıya başvurmam."
+  },
+  {
+    "question": "Dürüstlük iş hayatında sizi hiç zor durumda bıraktı mı?",
+    "answer": "Evet, ama her zaman uzun vadede kazandırdı."
+  },
+  {
+    "question": "Bir arkadaşınız size etik olmayan bir iş teklif ederse tepkiniz ne olur?",
+    "answer": "Kibarca reddeder, uygun olmadığını belirtirim."
+  },
+  {
+    "question": "Bir hatayı başkası üstlenirse ne yaparsınız?",
+    "answer": "Kendi hatamı sahiplenir, doğru bilgiyi paylaşırım."
+  }
+]
