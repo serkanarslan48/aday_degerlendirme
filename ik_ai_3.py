@@ -1,13 +1,10 @@
 import tkinter as tk
 from tkinter import messagebox
-from sentence_transformers import SentenceTransformer, util
 import json
 from groq import Groq
 import random
 import ast
 
-# Model yükleniyor
-model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Anahtar kelime-kategori json dosyaları
 kategori_dosyalari = {
@@ -76,7 +73,7 @@ def temizle_ve_donustur(girdi):
 
 # Tkinter uygulaması
 class InterviewApp:
-    def _init_(self, master):
+    def __init__(self, master):
         self.master = master
         self.master.title("Mülakat Asistanı")
         self.toplam_puan = 0
